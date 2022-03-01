@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for securing the peace in the northern shires</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05684</idno>
+            <idno type="STC">Wing S1911</idno>
+            <idno type="STC">ESTC R218142</idno>
+            <idno type="EEBO-CITATION">53981742</idno>
+            <idno type="OCLC">ocm 53981742</idno>
+            <idno type="VID">180375</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180375)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2827:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for securing the peace in the northern shires</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1689-1694 : William and Mary)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to their most excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Headpiece; initial letter.</note>
+                  <note>Dated: Given under Our Signet at Edinburgh, the thirteenth day of May. And of Our Reign the fourth year, 1692.</note>
+                  <note>Signed: Gilb. Eliot, Cls. Sti. Concilii.</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1689-1702 --  Sources.</term>
+               <term>Scotland --  Defenses --  17th century --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:180375:1"/>
+            <head>
+               <hi>A PROCLAMATION</hi> For Securing the Peace in the Northern Shires.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">W</seg>ILLIAM and MARY, by the Grace of GOD, King and Queen of <hi>Great-Britain, France,</hi> and <hi>Ireland,</hi> Defenders of the Faith;</signed>
+               <salute>To Macers of Our Privy Council, Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch, as We by Our Proclamation, of the Date the ninth Day of <hi>May</hi> current, with Advice of the Lords of Our Privy Council, Have thought fit to Require the Heretors and Fencible Men, in the ſeveral Shires therein mentioned, under the Com<g ref="char:EOLhyphen"/>mand of the Officers Named, or to be Named, in manner therein-ſpecified, to Rendezvouz upon the Days, and at the places therein ſet down, for being in readineſs, when called out, to make all vi<g ref="char:EOLhyphen"/>gorous Defence and Reſiſtance, againſt an Invaſion of Barbarous and Bloody <hi>French</hi> and <hi>Iriſh</hi> Pa<g ref="char:EOLhyphen"/>pilts, from the Kingdom of <hi>France,</hi> upon this Our Antient Kingdom, and chiefly upon the South and Weſtern parts thereof: And it being likewiſe Our Deſire and Intention, to take Care of the Peace and Tranquility of the other parts of this Kingdom, although not apprehended to be ſo near the Danger, That the ſame may be ſecure from all Forraign Attempts, or Inteſtine Commotion; And for that end it being fit and neceſſar, that particular Perſons be Nominated and Appoionted principally, to take Care of the Peace of ſeveral Shires under-written, and do every thing requiſit for Suppreſſing and Reſiſting any Attempts from Abroad, or Iuſurrection at Home, within the ſame; and to Proſecute ſuch Orders and Directions, as ſhall from time to time be ſent to them from Us, or Our Privy Council: And it being alſo neceſſar, that Juſtices of Peace be Appointed and Authorized, to put in Execution the Laws and Acts of Parliament, made anent that Truſt and Office, conform to, and in the Particulars ſpecified in the ſeveral inſtructions therin-contaned: Therefore We, with Advice of the Lords of Our Privy Council, Hereby Nominat and Appoint <hi>David Boyl of Kelburn,</hi> for the Shires of <hi>Bute; Andrew</hi> Lord <hi>Rollo</hi> and <hi>David</hi> Lord <hi>Ruthven,</hi> for the Shire of <hi>Perth</hi>; The Viſcount of <hi>Arbuthnet,</hi> for the Shire of <hi>Kincardin,</hi> The Earl of <hi>Kintore</hi> for that Diviſion of the Shire of <hi>Aberdene,</hi> contained in a Commiſſion for<g ref="char:EOLhyphen"/>merly granted to him by Our Privy Council; And the Maſter of <hi>Saltoun</hi> for the other Diviſion of the ſaid Shire; <hi>Lodovick Grant</hi> of <hi>Freueich</hi> for the Shire of <hi>Inverneſs; David Broddie</hi> of <hi>Lethin,</hi> for the Shire of <hi>Nairn</hi>; The Viſcount of <hi>Tarbat,</hi> for the Shire of <hi>Cromarty</hi>; The Earl of <hi>Strathmore,</hi> for the Shire of <hi>Forfar,</hi> The Earl of <hi>Finlator,</hi> and in his abſence Sir <hi>James Ogilvy</hi> of <hi>Church-hill</hi> his Son, for the Shire of <hi>Baneſſ,</hi> The Lord <hi>Strathnaver,</hi> and in his abſence Sir <hi>Robert Gordon</hi> of <hi>Embo,</hi> and <hi>Adam-Gordon</hi> of <hi>Dalſolly,</hi> for the Shire of <hi>Suther<g ref="char:EOLhyphen"/>land</hi>; Sir <hi>George Sinclar</hi> of <hi>Cleith,</hi> for the Shire of <hi>Caithneſs. <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Broddie</hi> of that <hi>Ilk,</hi> for the Shire of <hi>Elgin, Robert Elphingston</hi> of <hi>Lapneſs,</hi> for the Shire of Stuartry of <hi>Orknay</hi> and <hi>Zetland</hi>; And <hi>David Roſs of Balnagowan,</hi> for the Shore of <hi>Reſs</hi>; to have the principal Com<g ref="char:EOLhyphen"/>mand, Care and Overſight of the Peace and Security of the ſaids reſpective Shire &amp; Stewartry, and for D<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> neceſſar and requiſit, for making a vigorous Defence againſt all <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſame; And for that Effect to Con<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> think fit, for the timous and ready Suppreſſing of any unwarrantable Convocations, Aſſemblies, or Meetings of Our Leidges, or <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And Require and Command, the particular Perſons above-named, and every one of them within their reſpective Bounds, to Secure and Seize upon, conform to the Laws and Acts of Parliament made thereanent, any Seditious or Turbulent Perſons, their Horſe and Arms, and ſuch as they find ſtirring up, or Fomenting any Inſurrection amongſt Our Subjects, or unwarrantable Commotion againſt Us and Our Government, for Diſturbance of the Peace thereof, and any who may be acceſſory thereto, or concerned therein, and detain them in Cuſtody until they advertiſe Our Privy Council, which they are to do with all poſſible Diligence, and have their Orders there<g ref="char:EOLhyphen"/>anent: Which Perſons particularly above-named, within their Bounds <hi>reſpective</hi> above-mentioned, to have the Leading and Chief Com<g ref="char:EOLhyphen"/>mand of thc Heretors and Fencible Men within the ſaids reſpective Shires, when Called forth by Us, or Our Privy Council, to attend Our Hoſt, for the better Defence of this Our Antient Kingdom, conform to the Orders to be ſent by Us, or Our Privy Council, with the Names of the Inferiour Officers, to be Appointed by Our ſaids Lords, for the better Diſcharge of the ſaid Service. And We Conſi<g ref="char:EOLhyphen"/>dering the want of Juſtice, of Peace in the ſeveral Shires, to be a great prejudice to Our Subjects within the ſame, and to the Eſta<g ref="char:EOLhyphen"/>bliſhing and Preſerving the Peace and Tranquillity thereof in the time of ſo great Danger: And that it may contribute much to Our Ser<g ref="char:EOLhyphen"/>vice at this time, that Juſtices of Peace be Named in the ſeveral Shires above-mentioned, als well as the reſt of the Shires of this King<g ref="char:EOLhyphen"/>dom; Therefore We, with Advice foreſaid, conform to the Act of Parliament made thereanent, Declare, Appoint and Authorize the Commiſſioners of Supply, of the reſpective Shires and Stewartry foreſaids, who have, or ſhall qualifie themſelves according to Law, to be Juſtices of Peace in the ſaids ſeveral Shires, and Stewartry, with Power to them to Do and perform every Thing, which to the ſaid Of<g ref="char:EOLhyphen"/>fice and Truſt is competent and known to belong, by the ſeveral Laws and Acts of Parliament made thereanent, and Inſtructions there<g ref="char:EOLhyphen"/>in ſet down. And further, We with Advice foreſaid, Require and Command, the ſaids Juſtices of Peaces, within the Shires aod Stewartry re<g ref="char:EOLhyphen"/>ſpective above-mentioned, to Meet and Conveen at the Head-Burgh of the reſpective Shires, upon Advertiſement from the particular Perſon or Peſons above-named, for the particular Shires and Stewartry above-expreſt, and to concur with, and give all Aſſiſtance to all and each of them, within their reſpective Bounds, for Securing the Peace of the ſaids Shires &amp; Stewartry, and Reſiſting and Suppreſſing all Attempts that may be made againſt the ſame, or any Inſurrection or Commotion, which may be excited or ſtirred Up there in; And for Securing and Detain<g ref="char:EOLhyphen"/>ing in manner above-mentioned, the Fomenters thereof, or perſons acceſſory thereto; And Sicklike, We Require &amp; Command the Sheriffs of the reſpective Shires above-mentioned, Stewarts of Stewartries, Baillies of Regalities and Bailliaries, Magiſtrats of Burghs, and whole other Miniſters of the Law within the ſame, to concur with, and give all Aid and Aſſiſtance to the Perſons: ſpecially above-named, for the Shires &amp; Stewartry particularly above ſet down, in their obſerving the Premiſſes and doing and performing every thing neceſſar for execu<g ref="char:EOLhyphen"/>ting and diſcharging the Truſt conferred upon them hereby. OUR WILL IS HEREFORE, and We Charge you ſtraitly and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and to the remanent Mercat-Croſſes of the whole Head-Burghs of the ſeveral Shires and Stewartry above-named, and there, in Our Name and Authority, by open Proclama<g ref="char:EOLhyphen"/>tion, make Publication of the Premiſſes, that none pretend ignorance, And Ordains theſe Preſents to he Printed.</p>
+            <closer>
+               <dateline>Given Under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the thirteenth day of May. And of Our Reign, the fourth Year, <hi>1692</hi>
+                  </date>.</dateline>
+               <signed>Per actum Dominorum Secreti Concilii. In Supplementum Signeti. <hi>GlLB. ELIOT,</hi> Cls. Sti. Concilii.</signed>
+            </closer>
+            <closer>GOD Save King VVilliam and Queen Mary.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburg,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Excellent Majeſties, <hi>Anno DOM.</hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
